@@ -1,6 +1,6 @@
 {
-  "name": "cointavia-html-to-pdf-convertor",
-  "version": "1.0.3",
+  "name": "cointavia-html-to-pdf-converter",
+  "version": "2.0.1",
   "description": "Convert any HTML content / code into PDF file very easy.",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "html",
     "to",
     "pdf",
-    "convertor"
+    "pdf converter"
   ],
   "author": "Cointavia - Gayan Jayanath <admin@cointavia.com> (https://pdf.cointavia.com)",
   "license": "MIT",
