@@ -9,6 +9,16 @@ The CointaviaPDF npm package can be installed via [NPM](https://www.npmjs.com/pa
 npm i cointavia-html-to-pdf-converter
 ```
 
+
+
+
+## ⭐Purchase Api Token
+
+You can purchase api token through [pdf.cointavia.com](https://pdf.cointavia.com/)
+
+
+
+
 ### Usage for Vue
 
 In Vue project  you can simply import CointaviaPDF after above command
