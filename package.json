@@ -24,5 +24,8 @@
   "homepage": "https://github.com/cointavia/npm-pdf-generator#readme",
   "dependencies": {
     "axios": "^0.22.0"
-  }
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }  
 }
