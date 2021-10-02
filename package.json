@@ -1,6 +1,6 @@
 {
   "name": "cointavia-html-to-pdf-converter",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "Convert any HTML content / code into PDF file very easy.",
   "main": "index.js",
   "scripts": {

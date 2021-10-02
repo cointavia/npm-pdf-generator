@@ -43,10 +43,9 @@ export default {
 
   }
 }
-...
+```
 
-
-With successfull request Cointavia Api will return
+With successfull request Cointavia Api will return following responce
 
 ```json
 {
