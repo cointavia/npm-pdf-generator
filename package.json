@@ -1,0 +1,25 @@
+{
+  "name": "cointavia-pdf-generator",
+  "version": "1.0.0",
+  "description": "Convert any HTML content / code into PDF file very easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cointavia/npm-pdf-generator.git"
+  },
+  "keywords": [
+    "html",
+    "to",
+    "pdf",
+    "convertor"
+  ],
+  "author": "Cointavia - Gayan Jayanath <admin@cointavia.com> (https://pdf.cointavia.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cointavia/npm-pdf-generator/issues"
+  },
+  "homepage": "https://github.com/cointavia/npm-pdf-generator#readme"
+}
