@@ -24,9 +24,6 @@ async function generatePDF(auth_token,file_name,html_string) {
             .catch(function (error) {
                 console.log(error.response.data);
                 return error.response.data
-                // console.error(error.message) 
-                // Promise.resolve([undefined, error])
-                // console.log(Promise.resolve(error.response.data))
             });
 
   };
@@ -38,5 +35,3 @@ async function generatePDF(auth_token,file_name,html_string) {
   
   
 export default exports;
-
-//console.log(cointaviaPDF("hello","world"))
