@@ -1,6 +1,6 @@
 {
   "name": "cointavia-html-to-pdf-converter",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Convert any HTML content / code into PDF file very easy.",
   "main": "index.js",
   "scripts": {
@@ -24,8 +24,5 @@
   "homepage": "https://github.com/cointavia/npm-pdf-generator#readme",
   "dependencies": {
     "axios": "^0.22.0"
-  },
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
-  }  
+  }
 }
